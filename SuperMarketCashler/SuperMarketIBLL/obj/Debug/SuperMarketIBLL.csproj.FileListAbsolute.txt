@@ -1,0 +1,8 @@
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketIBLL\bin\Debug\SuperMarketIBLL.dll
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketIBLL\bin\Debug\SuperMarketIBLL.pdb
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketIBLL\bin\Debug\SuperMarketModel.dll
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketIBLL\bin\Debug\SuperMarketModel.pdb
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketIBLL\obj\Debug\SuperMarketIBLL.csprojAssemblyReference.cache
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketIBLL\obj\Debug\SuperMarketIBLL.csproj.CopyComplete
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketIBLL\obj\Debug\SuperMarketIBLL.dll
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketIBLL\obj\Debug\SuperMarketIBLL.pdb

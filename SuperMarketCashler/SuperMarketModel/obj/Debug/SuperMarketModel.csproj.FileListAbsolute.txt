@@ -1,0 +1,5 @@
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketModel\bin\Debug\SuperMarketModel.dll
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketModel\bin\Debug\SuperMarketModel.pdb
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketModel\obj\Debug\SuperMarketModel.csprojAssemblyReference.cache
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketModel\obj\Debug\SuperMarketModel.dll
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketModel\obj\Debug\SuperMarketModel.pdb

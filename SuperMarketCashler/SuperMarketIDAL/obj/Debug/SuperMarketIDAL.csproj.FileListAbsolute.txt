@@ -1,0 +1,8 @@
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketIDAL\bin\Debug\SuperMarketIDAL.dll
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketIDAL\bin\Debug\SuperMarketIDAL.pdb
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketIDAL\bin\Debug\SuperMarketModel.dll
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketIDAL\bin\Debug\SuperMarketModel.pdb
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketIDAL\obj\Debug\SuperMarketIDAL.csproj.CopyComplete
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketIDAL\obj\Debug\SuperMarketIDAL.dll
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketIDAL\obj\Debug\SuperMarketIDAL.pdb
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketIDAL\obj\Debug\SuperMarketIDAL.csprojAssemblyReference.cache

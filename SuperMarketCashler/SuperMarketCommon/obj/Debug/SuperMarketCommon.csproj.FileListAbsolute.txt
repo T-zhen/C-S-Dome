@@ -1,0 +1,13 @@
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketCommon\obj\Debug\SuperMarketCommon.csprojAssemblyReference.cache
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketCommon\obj\Debug\SuperMarketCommon.PageNavigator.resources
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketCommon\obj\Debug\SuperMarketCommon.SuperText.resources
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketCommon\obj\Debug\SuperMarketCommon.csproj.GenerateResource.cache
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketCommon\bin\Debug\SuperMarketCommon.dll
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketCommon\bin\Debug\SuperMarketCommon.pdb
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketCommon\bin\Debug\log4net.dll
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketCommon\bin\Debug\SuperMarketModel.dll
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketCommon\bin\Debug\SuperMarketModel.pdb
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketCommon\bin\Debug\log4net.xml
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketCommon\obj\Debug\SuperMarketCommon.csproj.CopyComplete
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketCommon\obj\Debug\SuperMarketCommon.dll
+E:\SQL Server\2020406超市管理\Code\SuperMarketCashler\SuperMarketCommon\obj\Debug\SuperMarketCommon.pdb
